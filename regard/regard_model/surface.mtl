@@ -1,0 +1,649 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.0)
+
+newmtl DefaultMaterial
+Kd 0.6000000238418579 0.6000000238418579 0.6000000238418579
+Ka 0 0 0
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+illum 1
+
+newmtl material0000
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0000_map_Kd.png
+
+newmtl material0001
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0001_map_Kd.png
+
+newmtl material0002
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0002_map_Kd.png
+
+newmtl material0003
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0003_map_Kd.png
+
+newmtl material0004
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0004_map_Kd.png
+
+newmtl material0005
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0005_map_Kd.png
+
+newmtl material0006
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0006_map_Kd.png
+
+newmtl material0007
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0007_map_Kd.png
+
+newmtl material0008
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0008_map_Kd.png
+
+newmtl material0009
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0009_map_Kd.png
+
+newmtl material0010
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0010_map_Kd.png
+
+newmtl material0011
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0011_map_Kd.png
+
+newmtl material0012
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0012_map_Kd.png
+
+newmtl material0013
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0013_map_Kd.png
+
+newmtl material0014
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0014_map_Kd.png
+
+newmtl material0015
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0015_map_Kd.png
+
+newmtl material0016
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0016_map_Kd.png
+
+newmtl material0017
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0017_map_Kd.png
+
+newmtl material0018
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0018_map_Kd.png
+
+newmtl material0019
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0019_map_Kd.png
+
+newmtl material0020
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0020_map_Kd.png
+
+newmtl material0021
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0021_map_Kd.png
+
+newmtl material0022
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0022_map_Kd.png
+
+newmtl material0023
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0023_map_Kd.png
+
+newmtl material0024
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0024_map_Kd.png
+
+newmtl material0025
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0025_map_Kd.png
+
+newmtl material0026
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0026_map_Kd.png
+
+newmtl material0027
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0027_map_Kd.png
+
+newmtl material0028
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0028_map_Kd.png
+
+newmtl material0029
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0029_map_Kd.png
+
+newmtl material0030
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0030_map_Kd.png
+
+newmtl material0031
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0031_map_Kd.png
+
+newmtl material0032
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0032_map_Kd.png
+
+newmtl material0033
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0033_map_Kd.png
+
+newmtl material0034
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0034_map_Kd.png
+
+newmtl material0035
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0035_map_Kd.png
+
+newmtl material0036
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0036_map_Kd.png
+
+newmtl material0037
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0037_map_Kd.png
+
+newmtl material0038
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0038_map_Kd.png
+
+newmtl material0039
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0039_map_Kd.png
+
+newmtl material0040
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0040_map_Kd.png
+
+newmtl material0041
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0041_map_Kd.png
+
+newmtl material0042
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0042_map_Kd.png
+
+newmtl material0043
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0043_map_Kd.png
+
+newmtl material0044
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0044_map_Kd.png
+
+newmtl material0045
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0045_map_Kd.png
+
+newmtl material0046
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0046_map_Kd.png
+
+newmtl material0047
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0047_map_Kd.png
+
+newmtl material0048
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0048_map_Kd.png
+
+newmtl material0049
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0049_map_Kd.png
+
+newmtl material0050
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0050_map_Kd.png
+
+newmtl material0051
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0051_map_Kd.png
+
+newmtl material0052
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 1
+illum 2
+map_Kd model_surface_text_material0052_map_Kd.png
+
